@@ -6,3 +6,4 @@ scikit-learn
 jupyter
 keras>=2.12.1
 plotly
+xgboost
